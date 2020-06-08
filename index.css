@@ -1,0 +1,33 @@
+.container1{
+    margin-top: 2%;
+}
+
+.card-body{
+    font-size: 15px;
+}
+
+#con1_col2{
+    color: white;
+    background-color: #2ebcae;
+}
+
+.heading_col{
+    border-bottom: 2px solid #2ebcae;
+    color: #2ebcae;
+}
+
+.skills{
+    background-color: #2ebcae;
+    font-size: medium;
+}
+
+.dot {
+    height: 27px;
+    width: 27px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    border: solid;
+    border-color: #2ebcae;
+    border-width: 3px;
+  }
